@@ -1,0 +1,18 @@
+body{padding-top:50px;}
+header,section,footer{padding-left: 20px;}
+
+h1{font-size: 40px;}
+h2{font-size: 22px;}
+h3{font-size: 20px;font-style: oblique;}
+
+
+ul{padding-left: 15px;}
+figcaption{font-style: italic;font-size: 13px;}
+
+img-responsive{margin left:0px;}
+article{margin-left: 5px;margin-right: 0px;}
+
+h3,h2{font-family: Oswald, sans-serif;}
+h1{font-family: Pacifico, cursive;}
+blockquote{font-size: 13px;font-style: oblique;}
+aside{font-size: 13px;font-style: oblique;margin-left: 40px;}
